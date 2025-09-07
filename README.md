@@ -53,7 +53,7 @@ I am by no means an expert and do not claim to be.)
 * Concurrency and parallelism
 
 ### Software:
-* Neo/N/Vim
+* Neo/vi/m
 * Jetbrains Editors
 * VSCode
 * Visual Studio
