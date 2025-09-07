@@ -66,8 +66,6 @@ I am by no means an expert and do not claim to be.)
 * HTML, CSS
 * AWS, Azure
 * SQL, Databases such as MySQL, PostgreSQL
-<<<<<<< HEAD
-=======
 
 ## Contact:
 
@@ -120,4 +118,3 @@ c1hCASn3w66SxGyURdoWxjSPwCTJz1M8yXTRHTfWkAOnPzUVS4fi+J0El4YfNUb6
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFQDKlKbIOxChbDjz2o1IaFbdvSJQ5m6vLAt6uiiUZAH Sergio Sierra
 ```
->>>>>>> 43d772a (Added contact section with email and public keys.)
